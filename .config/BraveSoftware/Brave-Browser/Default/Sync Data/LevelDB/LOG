@@ -1,0 +1,27 @@
+2021/08/20-09:03:13.745 377 Reusing MANIFEST /home/zileto/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/08/20-09:03:13.745 377 Recovering log #23
+2021/08/20-09:03:13.747 377 Reusing old log /home/zileto/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000023.log 
+2021/08/20-09:14:04.868 380 Level-0 table #28: started
+2021/08/20-09:14:04.873 380 Level-0 table #28: 80706 bytes OK
+2021/08/20-09:14:04.875 380 Delete type=0 #23
+2021/08/20-09:43:24.446 386 Level-0 table #30: started
+2021/08/20-09:43:24.453 386 Level-0 table #30: 78529 bytes OK
+2021/08/20-09:43:24.456 386 Delete type=0 #27
+2021/08/20-09:55:44.138 2529 Level-0 table #32: started
+2021/08/20-09:55:44.144 2529 Level-0 table #32: 81539 bytes OK
+2021/08/20-09:55:44.146 2529 Delete type=0 #29
+2021/08/20-10:16:15.663 2f17 Level-0 table #34: started
+2021/08/20-10:16:15.672 2f17 Level-0 table #34: 88910 bytes OK
+2021/08/20-10:16:15.676 2f17 Delete type=0 #31
+2021/08/20-10:16:15.676 2f17 Compacting 4@0 + 1@1 files
+2021/08/20-10:16:15.686 2f17 Generated table #35@0: 48 keys, 8053 bytes
+2021/08/20-10:16:15.686 2f17 Compacted 4@0 + 1@1 files => 8053 bytes
+2021/08/20-10:16:15.688 2f17 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/08/20-10:16:15.688 2f17 Delete type=2 #32
+2021/08/20-10:16:15.688 2f17 Delete type=2 #28
+2021/08/20-10:16:15.688 2f17 Delete type=2 #30
+2021/08/20-10:16:15.688 2f17 Delete type=2 #34
+2021/08/20-10:16:15.688 2f17 Delete type=2 #25
+2021/08/20-10:54:46.406 386 Level-0 table #37: started
+2021/08/20-10:54:46.411 386 Level-0 table #37: 76916 bytes OK
+2021/08/20-10:54:46.413 386 Delete type=0 #33

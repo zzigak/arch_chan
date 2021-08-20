@@ -1,0 +1,15 @@
+2021/08/19-22:34:29.214 10bd1 Reusing MANIFEST /home/zileto/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/19-22:34:29.214 10bd1 Recovering log #9
+2021/08/19-22:34:29.225 10bd1 Reusing old log /home/zileto/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000009.log 
+2021/08/19-22:34:54.768 10bd0 Level-0 table #15: started
+2021/08/19-22:34:54.782 10bd0 Level-0 table #15: 2800902 bytes OK
+2021/08/19-22:34:54.784 10bd0 Delete type=0 #9
+2021/08/19-22:34:54.785 10ea3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/08/19-22:34:54.785 10ea3 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x03\x01'\x00e\x000\x002\x00c\x00c\x005\x00a\x00d\x009\x00b\x00c\x00e\x00c\x00d\x002\x00f\x000\x00d\x007\x00d\x00e\x003\x00d\x00f\x00f\x000\x004\x000\x001\x005\x00f\x004\x00_\x003\x00_\x002\x00:\x000\x003' @ 5566 : 0
+2021/08/19-22:34:54.785 10ea3 Compacting 1@1 + 1@2 files
+2021/08/19-22:34:54.790 10ea3 Generated table #16@1: 83 keys, 122306 bytes
+2021/08/19-22:34:54.790 10ea3 Compacted 1@1 + 1@2 files => 122306 bytes
+2021/08/19-22:34:54.791 10ea3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/08/19-22:34:54.791 10ea3 Delete type=2 #12
+2021/08/19-22:34:54.791 10ea3 Delete type=2 #15
+2021/08/19-22:34:54.792 10ea3 Manual compaction at level-1 from '\x00\x01\x03\x03\x01'\x00e\x000\x002\x00c\x00c\x005\x00a\x00d\x009\x00b\x00c\x00e\x00c\x00d\x002\x00f\x000\x00d\x007\x00d\x00e\x003\x00d\x00f\x00f\x000\x004\x000\x001\x005\x00f\x004\x00_\x003\x00_\x002\x00:\x000\x003' @ 5566 : 0 .. (end); will stop at (end)

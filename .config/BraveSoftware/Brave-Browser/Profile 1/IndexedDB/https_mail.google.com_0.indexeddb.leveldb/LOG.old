@@ -1,0 +1,6 @@
+2021/08/18-15:16:08.794 50c Reusing MANIFEST /home/zileto/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/18-15:16:08.794 50c Recovering log #15
+2021/08/18-15:16:08.809 50c Reusing old log /home/zileto/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000015.log 
+2021/08/18-15:50:32.181 1597 Level-0 table #21: started
+2021/08/18-15:50:32.199 1597 Level-0 table #21: 1836039 bytes OK
+2021/08/18-15:50:32.201 1597 Delete type=0 #15

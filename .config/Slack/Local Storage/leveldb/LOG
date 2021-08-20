@@ -1,0 +1,6 @@
+2021/08/19-19:15:00.629 f827 Reusing MANIFEST /home/zileto/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2021/08/19-19:15:00.629 f827 Recovering log #6
+2021/08/19-19:15:00.630 f827 Reusing old log /home/zileto/.config/Slack/Local Storage/leveldb/000006.log 
+2021/08/19-23:12:01.019 1153a Level-0 table #10: started
+2021/08/19-23:12:01.023 1153a Level-0 table #10: 9548 bytes OK
+2021/08/19-23:12:01.026 1153a Delete type=0 #6

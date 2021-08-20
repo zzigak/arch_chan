@@ -1,0 +1,5 @@
+2021/08/11-22:25:35.610 70d Reusing MANIFEST /home/zileto/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/11-22:25:35.610 70d Recovering log #86
+2021/08/11-22:25:35.624 70d Reusing old log /home/zileto/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000086.log 
+2021/08/11-22:25:35.624 70d Delete type=2 #85
+2021/08/11-22:25:35.624 70d Delete type=2 #87

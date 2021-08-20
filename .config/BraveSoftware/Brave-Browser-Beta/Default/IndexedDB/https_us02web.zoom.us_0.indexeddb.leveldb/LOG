@@ -1,0 +1,6 @@
+2021/08/14-22:09:15.684 b930 Creating DB /home/zileto/.config/BraveSoftware/Brave-Browser-Beta/Default/IndexedDB/https_us02web.zoom.us_0.indexeddb.leveldb since it was missing.
+2021/08/14-22:09:15.688 b930 Reusing MANIFEST /home/zileto/.config/BraveSoftware/Brave-Browser-Beta/Default/IndexedDB/https_us02web.zoom.us_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/14-23:15:08.136 ccc0 Level-0 table #5: started
+2021/08/14-23:15:08.139 ccc0 Level-0 table #5: 7911 bytes OK
+2021/08/14-23:15:08.141 ccc0 Delete type=0 #3
+2021/08/14-23:15:08.141 ccc0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

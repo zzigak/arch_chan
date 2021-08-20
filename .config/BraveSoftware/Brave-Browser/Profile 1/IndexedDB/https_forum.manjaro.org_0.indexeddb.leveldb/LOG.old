@@ -1,0 +1,6 @@
+2021/08/16-00:15:20.651 1a587 Creating DB /home/zileto/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb since it was missing.
+2021/08/16-00:15:20.656 1a587 Reusing MANIFEST /home/zileto/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/16-00:18:27.141 1a9fa Level-0 table #5: started
+2021/08/16-00:18:27.144 1a9fa Level-0 table #5: 101933 bytes OK
+2021/08/16-00:18:27.145 1a9fa Delete type=0 #3
+2021/08/16-00:18:27.146 1a9fa Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2021/08/11-21:17:03.183 7d4c Creating DB /home/zileto/.config/chromium/Default/IndexedDB/https_www.chrisatmachine.com_0.indexeddb.leveldb since it was missing.
+2021/08/11-21:17:03.187 7d4c Reusing MANIFEST /home/zileto/.config/chromium/Default/IndexedDB/https_www.chrisatmachine.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/11-21:17:51.523 81c3 Level-0 table #5: started
+2021/08/11-21:17:51.525 81c3 Level-0 table #5: 5740 bytes OK
+2021/08/11-21:17:51.527 81c3 Delete type=0 #3
+2021/08/11-21:17:51.528 81c3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

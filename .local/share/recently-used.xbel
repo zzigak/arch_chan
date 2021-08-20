@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/zileto/Pictures" added="2021-08-11T19:44:11.684074Z" modified="2021-08-13T16:37:27.287934Z" visited="2021-08-11T19:44:11.684076Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2021-08-13T16:37:27.287930Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/ETRH47.jpg" added="2021-08-11T19:46:59.264984Z" modified="2021-08-11T19:46:59.264997Z" visited="2021-08-11T19:46:59.264985Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-11T19:46:59.264991Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Public/freebsd-purple-logo-4k-purple-brickwall-freebsd-logo-os.jpg" added="2021-08-11T20:24:19.265995Z" modified="2021-08-11T20:24:19.266009Z" visited="2021-08-11T20:24:19.265996Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-08-11T20:24:19.266002Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/F29_wallpaper_beta.png" added="2021-08-11T20:26:36.345844Z" modified="2021-08-11T20:26:36.345857Z" visited="2021-08-11T20:26:36.345846Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-08-11T20:26:36.345851Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Downloads/pamac-b7837bb4fd517e0288e744af0ef773b325128196.tar.gz" added="2021-08-12T07:03:31.111546Z" modified="2021-08-12T07:03:31.111555Z" visited="2021-08-12T07:03:31.111548Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-12T07:03:31.111551Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Downloads/Fira_Code_v5.2.zip" added="2021-08-12T07:21:49.710277Z" modified="2021-08-12T07:21:49.710289Z" visited="2021-08-12T07:21:49.710279Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-12T07:21:49.710283Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/JetBrains%20Mono%20Regular%20Nerd%20Font%20Complete%20Mono.ttf" added="2021-08-12T07:34:41.308127Z" modified="2021-08-12T07:34:41.308140Z" visited="2021-08-12T07:34:41.308129Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-12T07:34:41.308134Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/lxappearance-0.6.3-4-x86_64.pkg.tar.zst" added="2021-08-12T08:32:09.491636Z" modified="2021-08-12T08:32:09.491647Z" visited="2021-08-12T08:32:09.491637Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-alpm-package"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-12T08:32:09.491641Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/09ds0jldh3x61.png" added="2021-08-12T17:11:47.904041Z" modified="2021-08-12T17:11:47.904054Z" visited="2021-08-12T17:11:47.904043Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-12T17:11:47.904048Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/AppleArch6K.jpg" added="2021-08-12T17:12:31.152147Z" modified="2021-08-16T13:40:19.302375Z" visited="2021-08-12T17:12:31.152149Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-16T13:40:19.302371Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/prayer_dark_waifu2x_art_noise2_scale_tta_1.png" added="2021-08-12T17:13:12.768711Z" modified="2021-08-12T17:13:12.768725Z" visited="2021-08-12T17:13:12.768713Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-12T17:13:12.768718Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/anki-2.1.46-linux.tar.bz2" added="2021-08-13T09:27:50.962492Z" modified="2021-08-13T09:27:50.962504Z" visited="2021-08-13T09:27:50.962494Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bzip-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-13T09:27:50.962498Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Downloads/ProFont%20IIx%20Nerd%20Font%20Complete.ttf" added="2021-08-13T17:01:13.845752Z" modified="2021-08-13T17:01:13.845766Z" visited="2021-08-13T17:01:13.845754Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-13T17:01:13.845759Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/JetBrainsMono.zip" added="2021-08-13T17:59:05.029980Z" modified="2021-08-13T17:59:05.029993Z" visited="2021-08-13T17:59:05.029981Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-13T17:59:05.029986Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/FiraCode.zip" added="2021-08-13T18:01:59.790653Z" modified="2021-08-13T18:01:59.790666Z" visited="2021-08-13T18:01:59.790655Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-13T18:01:59.790659Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/reddit-cartoon-4k-io.jpg" added="2021-08-13T19:29:20.000439Z" modified="2021-08-13T19:29:20.000451Z" visited="2021-08-13T19:29:20.000441Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-13T19:29:20.000444Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/Khan%20Academy%20-%20All%20Reading%20Questions%20(68%20Passages)%20.pdf" added="2021-08-14T10:13:58.590107Z" modified="2021-08-15T19:45:38.418030Z" visited="2021-08-14T10:13:58.590109Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-14T10:13:58.590113Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/brave-beta %U&apos;" modified="2021-08-15T19:45:38.418025Z" count="18"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/Khan%20Academy%20-%20All%20Writing_Language%20Questions%20(48%20Passages).pdf" added="2021-08-14T10:14:02.355599Z" modified="2021-08-15T12:03:29.540394Z" visited="2021-08-14T10:14:02.355601Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-14T10:14:02.355605Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/brave-beta %U&apos;" modified="2021-08-15T12:03:29.540387Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/Khan%20Academy%20-%20All%20Math%20Questions%20.pdf" added="2021-08-14T10:14:03.231860Z" modified="2021-08-14T10:14:03.231874Z" visited="2021-08-14T10:14:03.231862Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-14T10:14:03.231867Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/2021-08-13_23-38.png" added="2021-08-14T18:15:31.339430Z" modified="2021-08-15T08:08:22.598657Z" visited="2021-08-14T18:15:31.339432Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/brave-nightly %U&apos;" modified="2021-08-15T08:08:22.598657Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/2021-08-13_12-42.png" added="2021-08-14T18:15:47.196036Z" modified="2021-08-15T08:08:22.598622Z" visited="2021-08-14T18:15:47.196041Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/brave-nightly %U&apos;" modified="2021-08-15T08:08:22.598620Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/2021-08-13_12-43.png" added="2021-08-14T18:15:47.196090Z" modified="2021-08-15T08:08:22.598634Z" visited="2021-08-14T18:15:47.196091Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/brave-nightly %U&apos;" modified="2021-08-15T08:08:22.598632Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/2021-08-13_20-20.png" added="2021-08-14T18:15:47.196141Z" modified="2021-08-15T08:08:22.598641Z" visited="2021-08-14T18:15:47.196149Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/brave-nightly %U&apos;" modified="2021-08-15T08:08:22.598639Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/2021-08-13_20-21.png" added="2021-08-14T18:15:47.196200Z" modified="2021-08-15T08:08:22.598652Z" visited="2021-08-14T18:15:47.196201Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/brave-nightly %U&apos;" modified="2021-08-15T08:08:22.598650Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/2021-08-14_11-39.png" added="2021-08-14T18:15:47.196256Z" modified="2021-08-15T08:08:22.598662Z" visited="2021-08-14T18:15:47.196257Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/brave-nightly %U&apos;" modified="2021-08-15T08:08:22.598661Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/RRFDk7.png" added="2021-08-15T07:56:43.873024Z" modified="2021-08-16T13:38:46.385823Z" visited="2021-08-15T07:56:43.873026Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-16T13:38:46.385817Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/2021-08-14_19-39.png" added="2021-08-15T08:08:22.598667Z" modified="2021-08-15T08:08:22.598668Z" visited="2021-08-15T08:08:22.598667Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/brave-nightly %U&apos;" modified="2021-08-15T08:08:22.598668Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/2021-08-14_19-40.png" added="2021-08-15T08:08:22.598671Z" modified="2021-08-15T08:08:22.598672Z" visited="2021-08-15T08:08:22.598671Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/brave-nightly %U&apos;" modified="2021-08-15T08:08:22.598671Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/2021-08-14_22-56.png" added="2021-08-15T08:08:22.598675Z" modified="2021-08-15T08:08:22.598676Z" visited="2021-08-15T08:08:22.598675Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/brave-nightly %U&apos;" modified="2021-08-15T08:08:22.598675Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/2021-08-14_22-56_1.png" added="2021-08-15T08:08:22.598679Z" modified="2021-08-15T08:08:22.598681Z" visited="2021-08-15T08:08:22.598679Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/brave-nightly %U&apos;" modified="2021-08-15T08:08:22.598681Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/2-5KSA09-Practice1.pdf" added="2021-08-15T15:51:31.045281Z" modified="2021-08-15T15:51:37.281634Z" visited="2021-08-15T15:51:31.045282Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-15T15:51:31.045286Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/brave-beta %U&apos;" modified="2021-08-15T15:51:37.281624Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/a.cpp" added="2021-08-15T17:59:45.960283Z" modified="2021-08-15T21:25:12.931793Z" visited="2021-08-15T17:59:45.960285Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-08-15T21:25:12.931788Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/marsSurfaceEdit2.jpg" added="2021-08-16T08:27:04.853339Z" modified="2021-08-17T19:57:10.605257Z" visited="2021-08-16T08:27:04.853340Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-17T19:57:10.605256Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/mars-poverhnost-tekstura-fon.jpg" added="2021-08-16T13:37:16.946203Z" modified="2021-08-16T13:41:04.647035Z" visited="2021-08-16T13:37:16.946204Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-16T13:41:04.647030Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Downloads/uy9Dcsf-freebsd-wallpaper.jpg" added="2021-08-16T13:39:22.243436Z" modified="2021-08-16T13:39:22.243444Z" visited="2021-08-16T13:39:22.243437Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-16T13:39:22.243440Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/5b55d543-fe53-4c86-80dd-3b3ab185c68e.png" added="2021-08-16T13:40:41.299989Z" modified="2021-08-16T13:40:56.019877Z" visited="2021-08-16T13:40:41.299991Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-16T13:40:56.019869Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/rqecq4mlhkf71.png" added="2021-08-16T13:43:14.869960Z" modified="2021-08-16T13:43:14.869972Z" visited="2021-08-16T13:43:14.869961Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-16T13:43:14.869965Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/7ugx8tq0kej61.png" added="2021-08-16T13:49:42.182402Z" modified="2021-08-16T13:49:42.182415Z" visited="2021-08-16T13:49:42.182404Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-16T13:49:42.182408Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/lr3mdvmblth61.png" added="2021-08-16T13:49:50.867298Z" modified="2021-08-16T13:49:50.867311Z" visited="2021-08-16T13:49:50.867300Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-16T13:49:50.867305Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/nubrandelth61.png" added="2021-08-16T13:49:54.799445Z" modified="2021-08-16T13:49:54.799457Z" visited="2021-08-16T13:49:54.799446Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-16T13:49:54.799451Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/7ugx8tq0kej61%20(1).png" added="2021-08-16T13:50:06.592303Z" modified="2021-08-16T13:50:06.592316Z" visited="2021-08-16T13:50:06.592305Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-16T13:50:06.592309Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/2021-08-12_19-50.png" added="2021-08-16T13:52:59.266902Z" modified="2021-08-16T13:53:24.169225Z" visited="2021-08-16T13:52:59.266902Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;brave %U&apos;" modified="2021-08-16T13:53:24.169221Z" count="18"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/.config/zathura/zathurarc" added="2021-08-16T14:17:29.237807Z" modified="2021-08-16T14:17:29.237809Z" visited="2021-08-16T14:17:29.237807Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-08-16T14:17:29.237808Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/test.cpp" added="2021-08-16T14:27:38.425112Z" modified="2021-08-16T14:27:38.425124Z" visited="2021-08-16T14:27:38.425114Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-08-16T14:27:38.425118Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/.config/alacritty/alacritty.yml" added="2021-08-16T14:50:06.456469Z" modified="2021-08-16T14:50:06.456478Z" visited="2021-08-16T14:50:06.456470Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-yaml"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-08-16T14:50:06.456472Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/alacritty-master.zip" added="2021-08-16T18:36:17.392493Z" modified="2021-08-16T18:36:17.392507Z" visited="2021-08-16T18:36:17.392495Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-16T18:36:17.392500Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/alacritty-master/dracula.yml" added="2021-08-16T18:59:28.899765Z" modified="2021-08-16T18:59:28.899775Z" visited="2021-08-16T18:59:28.899766Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-yaml"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-08-16T18:59:28.899769Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/2021-08-16_21-31.png" added="2021-08-16T20:08:48.266961Z" modified="2021-08-16T20:09:49.852149Z" visited="2021-08-16T20:08:48.266962Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/chromium %U&apos;" modified="2021-08-16T20:09:49.852143Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/9c7jva8eyqf71.png" added="2021-08-17T07:57:12.320025Z" modified="2021-08-18T07:42:09.222862Z" visited="2021-08-17T07:57:12.320026Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-18T07:42:09.222858Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/Kova%C4%8Di%C4%8DHLENMOP.docx" added="2021-08-17T08:09:45.938301Z" modified="2021-08-18T13:23:57.963315Z" visited="2021-08-17T08:09:45.938302Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-17T08:09:45.938308Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.0" exec="&apos;soffice %u&apos;" modified="2021-08-18T13:23:57.963314Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/IvyGlobal-SAT_Grammar_Review.pdf" added="2021-08-17T16:57:21.181438Z" modified="2021-08-17T16:57:21.181452Z" visited="2021-08-17T16:57:21.181440Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-17T16:57:21.181445Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/facts-and-formulas-1.pdf" added="2021-08-17T16:58:43.482077Z" modified="2021-08-17T16:58:43.482089Z" visited="2021-08-17T16:58:43.482078Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-17T16:58:43.482082Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/Quotefancy-2001210-3840x2160.jpg" added="2021-08-17T19:57:38.169095Z" modified="2021-08-17T19:57:38.169109Z" visited="2021-08-17T19:57:38.169097Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-17T19:57:38.169102Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/dartmouth-college_74.jpg" added="2021-08-17T20:00:48.943317Z" modified="2021-08-17T20:00:48.943331Z" visited="2021-08-17T20:00:48.943319Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-17T20:00:48.943324Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/.local/share/fonts/JetBrainsMonoNL-Regular.ttf" added="2021-08-17T20:02:07.315165Z" modified="2021-08-17T20:02:07.315171Z" visited="2021-08-17T20:02:07.315165Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-17T20:02:07.315168Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/marsSurfaceEdit2.jpg.png" added="2021-08-17T20:10:50.681656Z" modified="2021-08-17T20:15:06.591955Z" visited="2021-08-17T20:10:50.681657Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-17T20:15:06.591954Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/Untitled.png" added="2021-08-17T20:15:33.695621Z" modified="2021-08-17T20:15:33.695635Z" visited="2021-08-17T20:15:33.695623Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-17T20:15:33.695628Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/spcae.jpg" added="2021-08-17T20:19:12.002557Z" modified="2021-08-17T20:21:12.076365Z" visited="2021-08-17T20:19:12.002559Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-17T20:21:12.076364Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/space.png" added="2021-08-17T20:21:38.106572Z" modified="2021-08-17T20:21:38.106586Z" visited="2021-08-17T20:21:38.106574Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-17T20:21:38.106579Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/wallpapers.zip" added="2021-08-19T12:00:00.654285Z" modified="2021-08-19T12:00:00.654299Z" visited="2021-08-19T12:00:00.654287Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-19T12:00:00.654292Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/raphael-lacoste-solstice-rlacostev6-weeb.jpg" added="2021-08-19T17:32:27.999881Z" modified="2021-08-19T17:32:27.999893Z" visited="2021-08-19T17:32:27.999883Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-19T17:32:27.999886Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Pictures/b465f1d4-82ff-4e85-b55b-29de0788d16e.png" added="2021-08-19T17:32:51.902524Z" modified="2021-08-19T17:32:51.902537Z" visited="2021-08-19T17:32:51.902526Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-19T17:32:51.902530Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/geothermal.cpp" added="2021-08-19T20:45:29.248494Z" modified="2021-08-19T20:45:29.248507Z" visited="2021-08-19T20:45:29.248495Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-19T20:45:29.248500Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/token.txt" added="2021-08-20T07:48:41.620860Z" modified="2021-08-20T07:48:41.620873Z" visited="2021-08-20T07:48:41.620862Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-20T07:48:41.620866Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zileto/Desktop/secret.txt" added="2021-08-20T07:51:15.232236Z" modified="2021-08-20T07:51:15.232248Z" visited="2021-08-20T07:51:15.232238Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-08-20T07:51:15.232242Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

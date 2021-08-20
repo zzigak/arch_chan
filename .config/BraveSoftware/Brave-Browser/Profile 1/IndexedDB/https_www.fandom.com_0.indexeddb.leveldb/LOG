@@ -1,0 +1,7 @@
+2021/08/16-16:23:06.360 51c0 Reusing MANIFEST /home/zileto/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/16-16:23:06.360 51c0 Recovering log #3
+2021/08/16-16:23:06.360 51c0 Reusing old log /home/zileto/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/000003.log 
+2021/08/16-16:36:50.176 4fca Level-0 table #5: started
+2021/08/16-16:36:50.177 4fca Level-0 table #5: 2748 bytes OK
+2021/08/16-16:36:50.179 4fca Delete type=0 #3
+2021/08/16-16:36:50.179 4fca Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,667 @@
+{
+   "checksum": "1ca25b9bbde0b9287ec382c35996b5ac",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13273231171722256",
+               "guid": "0b4480ea-c5c1-4d49-a8b6-46b0b31b7f2a",
+               "id": "6",
+               "name": "i3 - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/I3#Autostart"
+            }, {
+               "date_added": "13273231171722512",
+               "guid": "4642a845-d652-4dd4-b4e5-1071b876d460",
+               "id": "7",
+               "name": "GitHub - okraits/j4-make-config: Universal theme switcher and config generator for the i3 wm",
+               "type": "url",
+               "url": "https://github.com/okraits/j4-make-config"
+            }, {
+               "date_added": "13273231171722727",
+               "guid": "a6d3094e-f359-40c2-b061-e7631b80eb0e",
+               "id": "8",
+               "name": "Polybar - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/Polybar#Running_with_WM"
+            }, {
+               "date_added": "13273231171722917",
+               "guid": "218ce8d6-1fbe-406b-869d-6bfbcb4684a2",
+               "id": "9",
+               "name": "instal arc theme on i3 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/results?search_query=instal+arc+theme+on+i3"
+            }, {
+               "date_added": "13273231171723134",
+               "guid": "85105aa8-df6e-49f7-8692-be65f6585e3d",
+               "id": "10",
+               "name": "[8b] | i3 Basic Customization - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=lvLExb1SUzM"
+            }, {
+               "date_added": "13273231171723338",
+               "guid": "68e8488d-edcb-4e1c-a282-868d5b7d8253",
+               "id": "11",
+               "name": "i3wm: How To \"Rice\" Your Desktop (3/3) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ARKIwOlazKI"
+            }, {
+               "date_added": "13273231171723613",
+               "guid": "9359ad86-279a-4148-a2db-e260af01ce07",
+               "id": "12",
+               "name": "LXAppearance - LXDE.org",
+               "type": "url",
+               "url": "https://wiki.lxde.org/en/LXAppearance"
+            }, {
+               "date_added": "13273231171723824",
+               "guid": "6d040d76-c9b2-42b5-b225-c88c6835f95a",
+               "id": "13",
+               "name": "Arch Linux - Package Search",
+               "type": "url",
+               "url": "https://archlinux.org/packages/?name=lxappearance-gtk3"
+            }, {
+               "date_added": "13273231171724025",
+               "guid": "4affa4a5-6552-4ea6-abd9-9f85dc847d38",
+               "id": "14",
+               "name": "GitHub - tobi-wan-kenobi/bumblebee-status: bumblebee-status is a modular, theme-able status line generator for the i3 window manager.",
+               "type": "url",
+               "url": "https://github.com/tobi-wan-kenobi/bumblebee-status"
+            }, {
+               "date_added": "13273231171724270",
+               "guid": "faeaf15c-1a39-405f-b22c-13cc0c9ecb3b",
+               "id": "15",
+               "name": "List of modules — bumblebee-status documentation",
+               "type": "url",
+               "url": "https://bumblebee-status.readthedocs.io/en/main/modules.html"
+            }, {
+               "date_added": "13273231171724493",
+               "guid": "b0412cd2-a253-44dc-b50d-ae50a83d376a",
+               "id": "16",
+               "name": "List of available themes — bumblebee-status documentation",
+               "type": "url",
+               "url": "https://bumblebee-status.readthedocs.io/en/main/themes.html"
+            }, {
+               "date_added": "13273231171724698",
+               "guid": "5dcaaa96-e3ce-4ba6-96f5-91ad81e91d90",
+               "id": "17",
+               "name": "[8e] | Polybar on i3 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=cLB008-FJ5o"
+            }, {
+               "date_added": "13273231171724895",
+               "guid": "f29517b8-d4ac-4f81-9569-04162b5f78c4",
+               "id": "18",
+               "name": "ArchMerge : 168 Polybar config in more detail : general and mainbar-i3 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=YZ5VkdR2c7Q"
+            }, {
+               "date_added": "13273231171725106",
+               "guid": "6fff624f-bf39-468f-9fb7-adc03caf380a",
+               "id": "19",
+               "name": "picom arch - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/results?search_query=picom+arch"
+            }, {
+               "date_added": "13273231171725298",
+               "guid": "d13255a5-099e-4ad1-85e1-504607b2380d",
+               "id": "20",
+               "name": "GitHub - ibhagwan/picom: A lightweight compositor for X11 (previously a compton fork)",
+               "type": "url",
+               "url": "https://github.com/ibhagwan/picom"
+            }, {
+               "date_added": "13273231171725502",
+               "guid": "5496760e-9428-42c4-9998-199827a51ff5",
+               "id": "21",
+               "name": "Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher",
+               "type": "url",
+               "url": "https://www.nerdfonts.com/font-downloads"
+            }, {
+               "date_added": "13273231171725710",
+               "guid": "643f5223-d45a-4a2f-abdd-4fac7d5903d4",
+               "id": "22",
+               "name": "Lxappearance: Graphical GTK Theme Selector (No Desktop Environment) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=A9NlKpckPCY"
+            }, {
+               "date_added": "13273231171726065",
+               "guid": "441cbc42-cad5-4173-a521-0a40ab56704f",
+               "id": "23",
+               "name": "Arch Linux - lxappearance 0.6.3-4 (x86_64)",
+               "type": "url",
+               "url": "https://archlinux.org/packages/community/x86_64/lxappearance/"
+            }, {
+               "date_added": "13273231171726288",
+               "guid": "e5f141f2-0b42-459e-a85c-73820c5e4cb5",
+               "id": "24",
+               "name": "Midnight Commander - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/Midnight_Commander"
+            }, {
+               "date_added": "13273231171726512",
+               "guid": "7ad9805b-3dfa-4acc-a231-6569719df4c6",
+               "id": "25",
+               "name": "SpaceFM - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/SpaceFM"
+            }, {
+               "date_added": "13273231171726697",
+               "guid": "ce52bf16-2cb6-467e-ad12-e4ac492dfded",
+               "id": "26",
+               "name": "Thunar - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/Thunar"
+            }, {
+               "date_added": "13273231171726940",
+               "guid": "a00658ab-8651-4151-8a99-8c6f78fd1ec0",
+               "id": "27",
+               "name": "PCManFM - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/PCManFM"
+            }, {
+               "date_added": "13273231171727123",
+               "guid": "b1c2c9a6-df0a-4712-aeed-cef0e80253a6",
+               "id": "28",
+               "name": "Dolphin - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/Dolphin"
+            }, {
+               "date_added": "13273231171727301",
+               "guid": "e7499284-16b8-4a6a-9a29-9a01428dc71b",
+               "id": "29",
+               "name": "ranger - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/Ranger"
+            } ],
+            "date_added": "13273231171720756",
+            "date_modified": "13273231171727301",
+            "guid": "910bfc87-5fa9-4209-94a7-4ed572bee196",
+            "id": "5",
+            "name": "New folder",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13273232247143857",
+               "guid": "2714feba-1a46-4bf2-b13e-0515f6f5c41a",
+               "id": "31",
+               "name": "i3 - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/I3#Autostart"
+            }, {
+               "date_added": "13273232247144081",
+               "guid": "c869ae75-988a-4f2b-9b86-851d94d672fd",
+               "id": "32",
+               "name": "GitHub - okraits/j4-make-config: Universal theme switcher and config generator for the i3 wm",
+               "type": "url",
+               "url": "https://github.com/okraits/j4-make-config"
+            }, {
+               "date_added": "13273232247144271",
+               "guid": "2ea20b35-aec2-4215-a162-5883eca25130",
+               "id": "33",
+               "name": "Polybar - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/Polybar#Running_with_WM"
+            }, {
+               "date_added": "13273232247144427",
+               "guid": "bbaf1b98-406a-409b-93a7-3badd85ed1cc",
+               "id": "34",
+               "name": "instal arc theme on i3 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/results?search_query=instal+arc+theme+on+i3"
+            }, {
+               "date_added": "13273232247144603",
+               "guid": "bab4e2f8-2c0a-492f-b497-919305657d86",
+               "id": "35",
+               "name": "[8b] | i3 Basic Customization - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=lvLExb1SUzM"
+            }, {
+               "date_added": "13273232247144779",
+               "guid": "9d2c1e72-7f4d-438e-b27e-99c96516fb2d",
+               "id": "36",
+               "name": "i3wm: How To \"Rice\" Your Desktop (3/3) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ARKIwOlazKI"
+            }, {
+               "date_added": "13273232247144944",
+               "guid": "192f2786-a94e-4b21-9482-06db2ad4de44",
+               "id": "37",
+               "name": "GitHub - tobi-wan-kenobi/bumblebee-status: bumblebee-status is a modular, theme-able status line generator for the i3 window manager.",
+               "type": "url",
+               "url": "https://github.com/tobi-wan-kenobi/bumblebee-status"
+            }, {
+               "date_added": "13273232247145131",
+               "guid": "6b66720e-9e18-4390-a5a3-8e02be90e855",
+               "id": "38",
+               "name": "[8e] | Polybar on i3 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=cLB008-FJ5o"
+            }, {
+               "date_added": "13273232247145286",
+               "guid": "f1a5971f-30b1-4222-891b-b4dc94bd8770",
+               "id": "39",
+               "name": "ArchMerge : 168 Polybar config in more detail : general and mainbar-i3 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=YZ5VkdR2c7Q"
+            }, {
+               "date_added": "13273232247145456",
+               "guid": "62fd7d11-9582-4788-bca1-95c879be08e8",
+               "id": "40",
+               "name": "picom arch - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/results?search_query=picom+arch"
+            }, {
+               "date_added": "13273232247145607",
+               "guid": "6a8938be-9aeb-4207-8988-d5cfb855bf97",
+               "id": "41",
+               "name": "GitHub - ibhagwan/picom: A lightweight compositor for X11 (previously a compton fork)",
+               "type": "url",
+               "url": "https://github.com/ibhagwan/picom"
+            }, {
+               "date_added": "13273232247145771",
+               "guid": "9bbeb644-8fc8-4ebc-a980-0cbda3f3a375",
+               "id": "42",
+               "name": "Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher",
+               "type": "url",
+               "url": "https://www.nerdfonts.com/font-downloads"
+            }, {
+               "date_added": "13273232247145932",
+               "guid": "d55afaa4-6e2f-4d82-9525-193ca80c6f4e",
+               "id": "43",
+               "name": "Midnight Commander - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/Midnight_Commander"
+            }, {
+               "date_added": "13273232247146083",
+               "guid": "163d8c09-105b-4337-8ecc-325ecd091cf2",
+               "id": "44",
+               "name": "SpaceFM - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/SpaceFM"
+            }, {
+               "date_added": "13273232247146228",
+               "guid": "905f6809-7dd2-4ff7-a5dd-7eee16f96e72",
+               "id": "45",
+               "name": "Thunar - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/Thunar"
+            }, {
+               "date_added": "13273232247146365",
+               "guid": "42dd589b-f59d-4b01-b327-73c7a8d0dc68",
+               "id": "46",
+               "name": "PCManFM - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/PCManFM"
+            }, {
+               "date_added": "13273232247146503",
+               "guid": "88d6796b-2ab1-4e7a-9fbd-c06e2ee23e75",
+               "id": "47",
+               "name": "Dolphin - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/Dolphin"
+            }, {
+               "date_added": "13273232247146656",
+               "guid": "d349718e-b279-4840-a0b6-a30c8cbc083b",
+               "id": "48",
+               "name": "ranger - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/Ranger"
+            } ],
+            "date_added": "13273232247143035",
+            "date_modified": "13273232247146656",
+            "guid": "a7938c30-5688-48a3-affa-ec237bda70c6",
+            "id": "30",
+            "name": "nwefolder",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13273274602254061",
+               "guid": "5964766f-a650-4891-bd32-1b19829460c3",
+               "id": "51",
+               "name": "i3 - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/I3#Autostart"
+            }, {
+               "date_added": "13273274602254368",
+               "guid": "3bf1346d-5d53-4e87-a95f-80744d84ae2f",
+               "id": "52",
+               "name": "GitHub - okraits/j4-make-config: Universal theme switcher and config generator for the i3 wm",
+               "type": "url",
+               "url": "https://github.com/okraits/j4-make-config"
+            }, {
+               "date_added": "13273274602254642",
+               "guid": "5c78fc1f-0974-4ced-96ce-7a37f345fd1c",
+               "id": "53",
+               "name": "Polybar - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/Polybar#Running_with_WM"
+            }, {
+               "date_added": "13273274602254876",
+               "guid": "4f737a05-c94e-4c37-933a-ea0a70a75af3",
+               "id": "54",
+               "name": "instal arc theme on i3 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/results?search_query=instal+arc+theme+on+i3"
+            }, {
+               "date_added": "13273274602255168",
+               "guid": "02f978da-7c2d-485b-bfc1-a7acd441084b",
+               "id": "55",
+               "name": "[8b] | i3 Basic Customization - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=lvLExb1SUzM"
+            }, {
+               "date_added": "13273274602255414",
+               "guid": "9b1b596b-6666-4e1a-93db-5354fe07cff4",
+               "id": "56",
+               "name": "(336) Switching to Ubuntu GNOME 15.04: Customizing the Terminal (3/4) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=aSItkatZq0Y"
+            }, {
+               "date_added": "13273274602255668",
+               "guid": "eda403bf-4f3e-4bab-9d88-c6c681ac70de",
+               "id": "57",
+               "name": "GitHub - tobi-wan-kenobi/bumblebee-status: bumblebee-status is a modular, theme-able status line generator for the i3 window manager.",
+               "type": "url",
+               "url": "https://github.com/tobi-wan-kenobi/bumblebee-status"
+            }, {
+               "date_added": "13273274602255943",
+               "guid": "7ffb53df-2ef1-4dd5-abf1-b6fa1a0f1961",
+               "id": "58",
+               "name": "[8e] | Polybar on i3 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=cLB008-FJ5o"
+            }, {
+               "date_added": "13273274602256177",
+               "guid": "ca556ce5-0059-4f13-bb8a-494391c45b14",
+               "id": "59",
+               "name": "ArchMerge : 168 Polybar config in more detail : general and mainbar-i3 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=YZ5VkdR2c7Q"
+            }, {
+               "date_added": "13273274602256422",
+               "guid": "66f863a7-9e82-46fc-89f5-67114d27c55d",
+               "id": "60",
+               "name": "picom arch - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/results?search_query=picom+arch"
+            }, {
+               "date_added": "13273274602256656",
+               "guid": "8dd12819-bc9d-4416-bfe4-40a8c0939b70",
+               "id": "61",
+               "name": "GitHub - ibhagwan/picom: A lightweight compositor for X11 (previously a compton fork)",
+               "type": "url",
+               "url": "https://github.com/ibhagwan/picom"
+            }, {
+               "date_added": "13273274602256918",
+               "guid": "1a184fcb-8255-4c2b-b7d4-8d9aa58e415d",
+               "id": "62",
+               "name": "Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher",
+               "type": "url",
+               "url": "https://www.nerdfonts.com/font-downloads"
+            }, {
+               "date_added": "13273274602257171",
+               "guid": "7251975f-7108-485b-8f4b-a39b8d40b063",
+               "id": "63",
+               "name": "Midnight Commander - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/Midnight_Commander"
+            }, {
+               "date_added": "13273274602257417",
+               "guid": "0e9b3841-77cd-4d23-a675-4c44b1ce56e6",
+               "id": "64",
+               "name": "SpaceFM - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/SpaceFM"
+            }, {
+               "date_added": "13273274602257657",
+               "guid": "8d533fc8-125e-4b35-9b8a-a5416a6792b9",
+               "id": "65",
+               "name": "Thunar - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/Thunar"
+            }, {
+               "date_added": "13273274602257890",
+               "guid": "f7989359-8b5c-4cf0-90db-69cb14ccba24",
+               "id": "66",
+               "name": "PCManFM - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/PCManFM"
+            }, {
+               "date_added": "13273274602258122",
+               "guid": "e417347d-c87c-4122-bb84-8047a397b5f6",
+               "id": "67",
+               "name": "Dolphin - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/Dolphin"
+            }, {
+               "date_added": "13273274602258372",
+               "guid": "1a202519-8bc2-464f-ade6-4e75a162a314",
+               "id": "68",
+               "name": "ranger - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/Ranger"
+            }, {
+               "date_added": "13273274602258613",
+               "guid": "34009994-31f8-43ac-912c-9b5df9c11246",
+               "id": "69",
+               "name": "(336) [8d] | i3 Step 3 Customization - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=kuzTkTgAsdg"
+            }, {
+               "date_added": "13273274602258866",
+               "guid": "f8547b2a-e424-46c2-9818-84868c23f50c",
+               "id": "70",
+               "name": "Garuda Linux Barebones - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=osPqTbOhDbI"
+            }, {
+               "date_added": "13273274602259114",
+               "guid": "ceeff713-bea6-4b87-99bd-2cb4c7d83dd9",
+               "id": "71",
+               "name": "Tiling Window Management and i3wm config additions - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=GKviflL9XeI"
+            }, {
+               "date_added": "13273274602259358",
+               "guid": "c83d3299-4882-4707-b335-5bae07107c38",
+               "id": "72",
+               "name": "ArchMerge : 192 polybar modules A-Z : weather - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=o2knnrgM6eQ"
+            }, {
+               "date_added": "13273274602259591",
+               "guid": "7556203a-96cd-4934-826a-e5b1448c2196",
+               "id": "73",
+               "name": "244 | Boys when they receive a compliment - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=jKhP750VdXw"
+            }, {
+               "date_added": "13273274602259832",
+               "guid": "dbb8182c-34c7-4d4a-8867-fff09d32bcea",
+               "id": "74",
+               "name": "My linux rice | BSPWM | POLYBAR - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=t_Z5DfNz_dg"
+            }, {
+               "date_added": "13273274602260061",
+               "guid": "315ac035-65d7-4b84-9756-abedb4b75a2c",
+               "id": "75",
+               "name": "Themes · ohmyzsh/ohmyzsh Wiki",
+               "type": "url",
+               "url": "https://github.com/ohmyzsh/ohmyzsh/wiki/Themes"
+            }, {
+               "date_added": "13273274602260461",
+               "guid": "1884a602-606b-4681-af3f-4f1aa2086a1a",
+               "id": "76",
+               "name": "ohmyzsh/themes at master · ohmyzsh/ohmyzsh",
+               "type": "url",
+               "url": "https://github.com/ohmyzsh/ohmyzsh/tree/master/themes"
+            }, {
+               "date_added": "13273274602260725",
+               "guid": "96ff12fe-c58f-4c4b-becf-ed74a2090a3a",
+               "id": "77",
+               "name": "Themes (legacy) · ohmyzsh/ohmyzsh Wiki",
+               "type": "url",
+               "url": "https://github.com/ohmyzsh/ohmyzsh/wiki/Themes-%28legacy%29"
+            }, {
+               "date_added": "13273274602260966",
+               "guid": "969624a5-da6a-40fb-afeb-77c33d510df9",
+               "id": "78",
+               "name": "Starship: Cross-Shell Prompt",
+               "type": "url",
+               "url": "https://starship.rs/"
+            }, {
+               "date_added": "13273274602261198",
+               "guid": "a3628cfc-79f3-41b4-ab37-ffcd6057cf57",
+               "id": "79",
+               "name": "Minimalistic, powerful and extremely customizable Zsh prompt - Spaceship",
+               "type": "url",
+               "url": "https://spaceship-prompt.sh/"
+            } ],
+            "date_added": "13273274602253077",
+            "date_modified": "13273274602261198",
+            "guid": "f3349553-e475-4c3c-a675-3b6815668271",
+            "id": "50",
+            "name": "new",
+            "type": "folder"
+         }, {
+            "date_added": "13273320399683059",
+            "guid": "a2e8d585-f118-4db8-9e75-13a2780de2d0",
+            "id": "82",
+            "name": "",
+            "type": "url",
+            "url": "https://www.icloud.com/iclouddrive/"
+         }, {
+            "date_added": "13273404801661681",
+            "guid": "42244c31-7004-4433-8e9f-c3a83af06209",
+            "id": "84",
+            "name": "Plugins with Vim-Plug | Chris@Machine",
+            "type": "url",
+            "url": "https://www.chrisatmachine.com/Neovim/01-vim-plug/"
+         }, {
+            "date_added": "13273407591498056",
+            "guid": "ea5a98b6-c4b5-412b-853a-c2486c6be0e9",
+            "id": "85",
+            "name": "可汗阅读68篇打印版0615",
+            "type": "url",
+            "url": "https://cvws.icloud-content.com/B/AXcoZGByahWn4RpSyOPaFojpNH7kAb4Dn9Hau5EI5xs0ZzYIEGAS2ifD/Khan+Academy+-+All+Reading+Questions+%2868+Passages%29+.pdf?o=Ag4aqCycPShgvz_rHy-SDN0ejq_1k12a8kdfP77n1Zir&v=1&x=3&a=CAog8lr0sfWJ8i5XlYqeQ6XwxXGptRCQLYHUV54s4WfsDEwSbxCK94CgtC8Yqu63oLQvIgEAUgTpNH7kWgQS2ifDaie-6WDS4y251mJI8VEdYZQdzC1cbSM7MTEoizEjGf1mJ-6McMSXLBxyJzWfKAG5r8JJyyv7jYfLG6mzzTiEoemXA5KQoKHqpHiDaUaf0VwqxQ&e=1628934371&fl=&r=933c7dce-5208-4b30-ba40-6294f5510445-1&k=-Z-nDKNnW7v3cxW7ULUpWA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=64&s=1AUH62Ok2RkRKncBvgFO3wld4V4&cd=i"
+         }, {
+            "date_added": "13273752388136945",
+            "guid": "76e7352c-c09b-4fa2-adaa-4b4b98f5d4b2",
+            "id": "102",
+            "name": "Online Colorscheme Configurator for i3, i3status, dmenu",
+            "type": "url",
+            "url": "https://thomashunter.name/i3-configurator/"
+         }, {
+            "date_added": "13273436024407864",
+            "guid": "1bfd8f50-c05b-4192-a095-80e7d1a4e996",
+            "id": "86",
+            "name": "eduardosnoliv/dotfiles",
+            "type": "url",
+            "url": "https://github.com/eduardosnoliv/dotfiles"
+         }, {
+            "date_added": "13273510795433056",
+            "guid": "0aa897da-ab42-441e-bd49-0bbca38374a4",
+            "id": "88",
+            "name": "[BSPWM] Deep Space : unixporn",
+            "type": "url",
+            "url": "https://www.reddit.com/r/unixporn/comments/klbnru/bspwm_deep_space/"
+         }, {
+            "date_added": "13273512214318609",
+            "guid": "b77b7c8c-0d18-4cc2-b631-c289e80e401e",
+            "id": "89",
+            "name": "(376) How to setup image previews on Ranger with Überzug - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=4qHEMd8Qf2U"
+         }, {
+            "date_added": "13273512412242942",
+            "guid": "f76cca52-6b39-4f77-994d-5f42b568fcad",
+            "id": "90",
+            "name": "seebye/ueberzug: ueberzug is a command line util which allows to display images in combination with X11",
+            "type": "url",
+            "url": "https://github.com/seebye/ueberzug#installation"
+         }, {
+            "date_added": "13273513518465975",
+            "guid": "1c6dfe46-3882-429d-97ca-a9e068007da9",
+            "id": "91",
+            "name": "[sway] Martian : unixporn",
+            "type": "url",
+            "url": "https://www.reddit.com/r/unixporn/comments/oc97fb/sway_martian/"
+         }, {
+            "children": [ {
+               "date_added": "13273598687263580",
+               "guid": "b3711b85-3ead-4766-8e6c-68c9c3fd0b46",
+               "id": "94",
+               "name": "xournalpp/xournalpp: Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.",
+               "type": "url",
+               "url": "https://github.com/xournalpp/xournalpp"
+            }, {
+               "date_added": "13273598687263863",
+               "guid": "991d8557-5cea-448d-8bb4-20b13f531eaa",
+               "id": "95",
+               "name": "Stylus Labs",
+               "type": "url",
+               "url": "http://www.styluslabs.com/"
+            }, {
+               "date_added": "13273598687263937",
+               "guid": "dbdfc742-6d98-470a-a74d-921b623a0c8a",
+               "id": "96",
+               "name": "Using coc extensions · neoclide/coc.nvim Wiki",
+               "type": "url",
+               "url": "https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions"
+            }, {
+               "date_added": "13273598687264196",
+               "guid": "fa4d4a96-4a9f-4a51-8642-fcae456228d1",
+               "id": "97",
+               "name": "Neovim Intellisense with coc | Chris@Machine",
+               "type": "url",
+               "url": "https://www.chrisatmachine.com/Neovim/04-vim-coc/"
+            } ],
+            "date_added": "13273598687263422",
+            "date_modified": "13273598687264196",
+            "guid": "347b398c-0840-43e2-a6b1-1bcff2c42ecf",
+            "id": "93",
+            "name": "fasd",
+            "type": "folder"
+         }, {
+            "date_added": "13273667663560835",
+            "guid": "8186738c-c20b-4aff-8138-30f26073c31c",
+            "id": "99",
+            "name": "Misterio77/flavours: 🎨💧 An easy to use base16 scheme manager/builder that integrates with any workflow.",
+            "type": "url",
+            "url": "https://github.com/misterio77/flavours"
+         }, {
+            "date_added": "13273668173913570",
+            "guid": "68f3de83-a93e-429c-9248-bfaa6cdff452",
+            "id": "100",
+            "name": "Using coc extensions · neoclide/coc.nvim Wiki",
+            "type": "url",
+            "url": "https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions"
+         } ],
+         "date_added": "13273189002929096",
+         "date_modified": "13273752388136945",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13273189002929101",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13273189002929102",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

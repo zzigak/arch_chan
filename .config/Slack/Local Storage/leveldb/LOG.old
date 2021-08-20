@@ -1,0 +1,8 @@
+2021/08/17-08:59:10.315 237d Creating DB /home/zileto/.config/Slack/Local Storage/leveldb since it was missing.
+2021/08/17-08:59:10.318 237d Reusing MANIFEST /home/zileto/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2021/08/17-13:22:10.710 749e Level-0 table #5: started
+2021/08/17-13:22:10.713 749e Level-0 table #5: 13442 bytes OK
+2021/08/17-13:22:10.715 749e Delete type=0 #3
+2021/08/17-20:22:10.724 dc53 Level-0 table #7: started
+2021/08/17-20:22:10.727 dc53 Level-0 table #7: 8552 bytes OK
+2021/08/17-20:22:10.729 dc53 Delete type=0 #4

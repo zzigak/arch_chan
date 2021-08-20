@@ -1,0 +1,6 @@
+2021/08/18-21:51:40.597 5439 Creating DB /home/zileto/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_sg.style.yahoo.com_0.indexeddb.leveldb since it was missing.
+2021/08/18-21:51:40.602 5439 Reusing MANIFEST /home/zileto/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_sg.style.yahoo.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/18-21:51:44.941 5439 Level-0 table #5: started
+2021/08/18-21:51:44.943 5439 Level-0 table #5: 1090 bytes OK
+2021/08/18-21:51:44.945 5439 Delete type=0 #3
+2021/08/18-21:51:44.945 5439 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

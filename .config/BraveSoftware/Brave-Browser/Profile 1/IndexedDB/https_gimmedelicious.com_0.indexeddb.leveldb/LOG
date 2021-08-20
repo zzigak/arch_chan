@@ -1,0 +1,6 @@
+2021/08/12-17:41:37.715 b17 Creating DB /home/zileto/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_gimmedelicious.com_0.indexeddb.leveldb since it was missing.
+2021/08/12-17:41:37.720 b17 Reusing MANIFEST /home/zileto/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_gimmedelicious.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/12-17:48:48.655 f29 Level-0 table #5: started
+2021/08/12-17:48:48.656 f29 Level-0 table #5: 1540 bytes OK
+2021/08/12-17:48:48.659 f29 Delete type=0 #3
+2021/08/12-17:48:48.659 f29 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,11 @@
+[Default Applications]
+text/html=brave-browser-beta.desktop
+x-scheme-handler/http=brave-browser-beta.desktop
+x-scheme-handler/https=brave-browser-beta.desktop
+x-scheme-handler/about=brave-browser-beta.desktop
+x-scheme-handler/unknown=brave-browser-beta.desktop
+image/png=net.lutris.Lutris.desktop
+x-scheme-handler/mailto=brave-browser.desktop
+
+[Added Associations]
+image/png=org.pwmt.zathura-djvu.desktop;visual-studio-code.desktop;net.lutris.Lutris.desktop;

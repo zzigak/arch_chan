@@ -1,0 +1,6 @@
+2021/08/14-22:48:27.007 c257 Creating DB /home/zileto/.config/BraveSoftware/Brave-Browser-Beta/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb since it was missing.
+2021/08/14-22:48:27.011 c257 Reusing MANIFEST /home/zileto/.config/BraveSoftware/Brave-Browser-Beta/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/14-22:48:31.986 c6f0 Level-0 table #5: started
+2021/08/14-22:48:31.988 c6f0 Level-0 table #5: 827 bytes OK
+2021/08/14-22:48:31.990 c6f0 Delete type=0 #3
+2021/08/14-22:48:31.990 c6f0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2021/08/16-15:36:15.278 4f6c Creating DB /home/zileto/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_www.goodfon.com_0.indexeddb.leveldb since it was missing.
+2021/08/16-15:36:15.284 4f6c Reusing MANIFEST /home/zileto/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_www.goodfon.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/16-15:37:32.191 5027 Level-0 table #5: started
+2021/08/16-15:37:32.194 5027 Level-0 table #5: 1150 bytes OK
+2021/08/16-15:37:32.197 5027 Delete type=0 #3
+2021/08/16-15:37:32.197 5027 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
