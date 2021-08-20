@@ -647,12 +647,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/zileto/Desktop/secret.txt" added="2021-08-20T07:51:15.232236Z" modified="2021-08-20T07:51:15.232248Z" visited="2021-08-20T07:51:15.232238Z">
+  <bookmark href="file:///home/zileto/Desktop/secret.txt" added="2021-08-20T07:51:15.232236Z" modified="2021-08-20T09:17:35.124609Z" visited="2021-08-20T07:51:15.232238Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
         <bookmark:applications>
-          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-08-20T07:51:15.232242Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-08-20T09:17:35.124608Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>

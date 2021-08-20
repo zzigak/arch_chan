@@ -3,6 +3,9 @@
     "openedPathsList": {
         "entries": [
             {
+                "fileUri": "file:///home/zileto/Desktop/secret.txt"
+            },
+            {
                 "fileUri": "file:///home/zileto/Desktop/2021-08-16_21-31.png"
             },
             {
@@ -50,10 +53,22 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/zileto/Desktop/secret.txt",
+                                        "path": "/home/zileto/Desktop/secret.txt",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/secret.txt"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -144,8 +159,7 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll",
-                        "enabled": false
+                        "label": "Save A&&ll"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -595,8 +609,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "enabled": false
+                        "label": "&&Word Wrap"
                     },
                     {
                         "id": "editor.action.toggleMinimap",
@@ -1542,5 +1555,5 @@
         },
         "openedWindows": []
     },
-    "pickerWorkingDir": "/home/zileto/Desktop/alacritty-master"
+    "pickerWorkingDir": "/home/zileto/Desktop"
 }
